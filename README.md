@@ -1,14 +1,21 @@
+# `Demonstration(Демонстрация)`
+
+![test vue](https://github.com/Mustafa10101/test-work/assets/121601835/e5d2c409-506c-416d-8005-7187a64757dd)
+
+# `Выполненне требования`
+
+### Создал Vue 3 приложение, которое включает в себя следующие страницы и функциональность:
+### a. Главная страница: Отображение списка товаров с возможностью их добавления на страницу с полным описанием и последующим добавлением в корзину.
+### b. Страница с полным описанием и добавлением в корзину.
+### b. Страница корзины: Отображение выбранных товаров с возможностью их удаления из корзины.
+### Реализовал маршрутизацию между страницами с использованием Vue Router.
+### Использовал состояние приложения с помощью Vuex/Pinia для управления корзиной.
+### Вывод товаров осуществляется по 4 шт, после нажатия на кнопку “показать еще” выводиться еще 4 товара.
+### Aдаптивный дизайн, чтобы приложение хорошо выглядело как на десктопе, так и на мобильных устройствах.
+
 # catalog
 
 This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
